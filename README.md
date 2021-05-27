@@ -1,37 +1,7 @@
-# :crossed_swords: Raid Guild HQ
-                                      
+# :crossed_swords: UBI Rebel Alliance HQ
 
-              _____                   _____                   _____                   _____          
-             /\    \                 /\    \                 /\    \                 /\    \         
-            /::\    \               /::\    \               /::\    \               /::\    \        
-           /::::\    \             /::::\    \              \:::\    \             /::::\    \       
-          /::::::\    \           /::::::\    \              \:::\    \           /::::::\    \      
-         /:::/\:::\    \         /:::/\:::\    \              \:::\    \         /:::/\:::\    \     
-        /:::/__\:::\    \       /:::/__\:::\    \              \:::\    \       /:::/  \:::\    \    
-       /::::\   \:::\    \     /::::\   \:::\    \             /::::\    \     /:::/    \:::\    \   
-      /::::::\   \:::\    \   /::::::\   \:::\    \   ____    /::::::\    \   /:::/    / \:::\    \  
-     /:::/\:::\   \:::\____\ /:::/\:::\   \:::\    \ /\   \  /:::/\:::\    \ /:::/    /   \:::\ ___\ 
-    /:::/  \:::\   \:::|    /:::/  \:::\   \:::\____/::\   \/:::/  \:::\____/:::/____/     \:::|    |
-    \::/   |::::\  /:::|____\::/    \:::\  /:::/    \:::\  /:::/    \::/    \:::\    \     /:::|____|
-     \/____|:::::\/:::/    / \/____/ \:::\/:::/    / \:::\/:::/    / \/____/ \:::\    \   /:::/    / 
-           |:::::::::/    /           \::::::/    /   \::::::/    /           \:::\    \ /:::/    /  
-           |::|\::::/    /             \::::/    /     \::::/____/             \:::\    /:::/    /   
-           |::| \::/____/              /:::/    /       \:::\    \              \:::\  /:::/    /    
-           |::|  ~|                   /:::/    /         \:::\    \              \:::\/:::/    /     
-           |::|   |                  /:::/    /           \:::\    \              \::::::/    /      
-           \::|   |                 /:::/    /             \:::\____\              \::::/    /       
-            \:|   |                 \::/    /               \::/    /               \::/____/        
-             \|___|                  \/____/                 \/____/                 ~~         
-
-`raidguild.eth`
-
-- [:japanese_castle: Daohaus (Pledging / Membership)](https://daohaus.club/dao/v2/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d)
-- [:japanese_ogre: Pokemol (Proposals / Voting)](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d)
-- [:bird: Twitter](https://twitter.com/RaidGuild)
-- [:speech_balloon: Discord](https://discord.gg/WFYvtw4)
-- [:spider_web: Website](https://raidguild.org)
-- [:book: Handbook](https://handbook.raidguild.org/)
-- [:memo: Blog](https://scroll.raidguild.org/)
+ 
+[Put links to Telegram channels and Discord]
 
 # WTF is the Raid Guild?
 
