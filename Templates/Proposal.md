@@ -1,4 +1,4 @@
-# ⚔️ Raid Guild Proposal #1
+# ⚔️ Rebel Humanitarian Improvement Proposal #N
 
 ###### Project
 
