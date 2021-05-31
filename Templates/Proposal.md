@@ -33,10 +33,10 @@ This is a quick description of the work being down
 
 ETA: 3-4 weeks after Design Phase
 
-### Finder (Who Brought This Proposal to the Guild)
+### Finder (Who Brought This Proposal to PoH)
 Name / Role
 
-### Raid Party (Team)
+### Squadron (Team)
 
 Name / Role for the project
 
